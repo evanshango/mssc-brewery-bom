@@ -13,7 +13,7 @@
 
     <groupId>com.codewithevans.beer-works</groupId>
     <artifactId>mssc-brewery-bom</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <packaging>pom</packaging>
 
     <name>SFG Brewery Common Dependency Project</name>
@@ -101,7 +101,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
@@ -125,7 +124,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-artemis</artifactId>
-            <version>2.6.1</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
